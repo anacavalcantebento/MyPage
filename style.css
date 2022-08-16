@@ -1,4 +1,29 @@
-html, body {
+body{
   height: 100%;
   width: 100%;
+  background-image: url("bg_7.jpg");
+  margin-left: 60px;
+  margin-right: 60px;
+
 }
+header{
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+#conteudo{
+  color:rgb(251,113,36);
+  font-size: 20px;
+  display: inline-block;
+  text-align:justify;
+  background: white;
+  border: 10px solid white;
+  
+}
+
+.foto{
+  float: left;
+  width: 500px;
+}
+
